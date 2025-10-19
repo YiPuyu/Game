@@ -6,7 +6,8 @@
 **Gold Miner** is a Java Swing-based arcade-style game where the player aims to collect gold while avoiding rocks. The game features multiple levels with increasing difficulty, providing a classic mining experience in a simple GUI environment.
 
 ## 🖼️ Screenshot
-Game/9496ed323f567bf74738d65758d1b33c.png
+![说明](Game/9496ed323f567bf74738d65758d1b33c.png)
+
 ## 🧩 Gameplay
 - **Objective:** Collect enough gold to reach the target score and advance to the next level.
 - **Controls:**
